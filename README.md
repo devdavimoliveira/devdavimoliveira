@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devdavimoliveira/devdavimoliveira/main/assets/drizzle.avif" height="40" alt="drizzle logo" style="border-radius:10px;"  />
 </div>
 
 ###
@@ -68,7 +70,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/devdavimoliveira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/devdavimoliveira/devdavimoliveira/main/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
